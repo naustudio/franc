@@ -21,7 +21,7 @@ module.exports = detect
 var MAX_LENGTH = 2048
 
 /* Minimum sample length. */
-var MIN_LENGTH = 5
+var MIN_LENGTH = 4
 
 /* The maximum distance to add when a given trigram does
  * not exist in a trigram dictionary. */
