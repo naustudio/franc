@@ -1,5 +1,5 @@
 {
-  "name": "franc",
+  "name": "@naustudio/franc",
   "description": "Monorepo for franc packages",
   "license": "MIT",
   "repository": "https://github.com/wooorm/franc",

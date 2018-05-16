@@ -1,5 +1,5 @@
 {
-  "name": "franc-all",
+  "name": "@naustudio/franc-all",
   "threshold": -1,
   "version": "5.0.0",
   "description": "Detect the language of text",

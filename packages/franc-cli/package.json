@@ -1,5 +1,5 @@
 {
-  "name": "franc-cli",
+  "name": "@naustudio/franc-cli",
   "version": "5.0.0",
   "description": "CLI to detect the language of text",
   "license": "MIT",
